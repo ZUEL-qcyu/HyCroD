@@ -1,2 +1,2 @@
-# HCDN
-A Euclidean-Hyperbolic Graph Learning Framework with Multiscale Contrastive Learning and Geometric Diffusion
+# HyCroD
+Rethinking Graph Representation: Hyperbolic Cross-space Diffusion for Hierarchical Structure Preservation
